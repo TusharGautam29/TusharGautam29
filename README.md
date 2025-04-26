@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Tushar Gautam and I'm a Student from IIT Goa, currently working on my Game Engine- HyperReal</h2>
+<h2 align="center">Hi 👋! My name is Tushar Gautam and I'm a Student from IIT Goa</h2>
 
 ###
 
